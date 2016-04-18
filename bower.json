@@ -11,7 +11,8 @@
     "WebRTC"
   ],
   "authors": [
-    "Daniel Beer"
+    "Daniel Beer",
+    "Joshua Koo"
   ],
   "license": "https://github.com/zz85/quirc.js/blob/gh-pages/LICENSE",
   "homepage": "https://github.com/zz85/quirc.js",
