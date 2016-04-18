@@ -1,5 +1,5 @@
 {
-  "name": "quircjs",
+  "name": "quircJs",
   "description": "Quirc.js is a JS Emscripten port of a small portable C qrcode library Quirc",
   "version": "1.0",
   "main": "quirc.js",
