@@ -27,7 +27,7 @@
 	"test.html",
 	"test_webrtc.html",
 	"quirc.js-demo-avatar.png",
-	"quirc.js-doraemon.png"
+	"quirc.js-doraemon.png",
 	"demo/*"
   ]
 }
