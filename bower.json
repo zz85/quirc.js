@@ -23,9 +23,11 @@
     "test",
     "tests",
 	".gitIgnore",
-	"MakeFile",
-	"README.md",
+	"Makefile",
 	"test.html",
-	"test_webrtc.html"
+	"test_webrtc.html",
+	"quirc.js-demo-avatar.png",
+	"quirc.js-doraemon.png"
+	"demo/*"
   ]
 }
