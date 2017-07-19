@@ -1,0 +1,13 @@
+demo
+lib
+tests
+node_modules
+bower_components
+
+.gitIgnore
+Makefile
+test.html
+test_webrtc.html
+quirc.js-demo-avatar.png
+quirc.js-doraemon.png
+qr.png
