@@ -11310,7 +11310,7 @@
 			
 			// Export
 			exports.Module = Module;
-			exports.quirc = Module;
+			exports.Quirc = Module;
 
 			Object.defineProperty(exports, '__esModule', {
 				value: true
