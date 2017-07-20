@@ -1,6 +1,6 @@
 {
   "name": "quirc-js",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "description": "Quirc.js is a JS Emscripten port of a small portable C qrcode library Quirc",
   "main": "quirc.js",
   "directories": {
