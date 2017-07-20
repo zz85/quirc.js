@@ -5,7 +5,7 @@ JS library is 61.3kb after gzipped and seems to be able to decode video frames f
 Quirc.js is a JS Emscripten port of a small portable C qrcode library [Quirc](https://github.com/dlbeer/quirc)
 
 Examples:
-- [WebRTC demo](https://github.com/Karankang007/quirc.js/test_webrtc.html)
+- [WebRTC demo](https://github.com/Karankang007/quirc.js/blob/Master/test_webrtc.html)
 - [Image decoding demo](https://github.com/Karankang007/quirc.js/test.html)
 
 Try this:
