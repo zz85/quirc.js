@@ -11305,7 +11305,7 @@
 			
 			// Configure decoded callback
 			Module.onDecoded = function(callback){
-				Module.decoded = decoded || noop;
+				Module.decoded = callback || noop;
 			};
 			
 			// Export
