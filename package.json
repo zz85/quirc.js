@@ -1,0 +1,33 @@
+{
+  "name": "quirc-js",
+  "version": "1.1.2",
+  "description": "Quirc.js is a JS Emscripten port of a small portable C qrcode library Quirc",
+  "main": "quirc.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karankang007/quirc.js.git"
+  },
+  "author": "Daniel Beer <dlbeer@gmail.com> (https://github.com/dlbeer)",
+  "contributors": [
+	"Joshua Koo (https://github.com/zz85)",
+	"Karanvir Kang <karankang007@gmail.com> (https://github.com/karankang007)"
+  ],
+  "license": "LicenseRef-LICENSE",
+  "bugs": {
+    "url": "https://github.com/zz85/quirc.js"
+  },
+  "homepage": "https://github.com/zz85/quirc.js",
+  "browser": {
+	"fs" : false,
+	"path": false,
+	"crypto": false,
+	"ws": false
+  }
+}

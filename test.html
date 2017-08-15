@@ -71,6 +71,9 @@
 		document.body.appendChild(canvas);
 
 		log('start');
+		
+		Module.onDecoded(decoded);
+		
 		image = Module._xsetup(width, height);
 		log('_xsetup', image, 'pointer');
 

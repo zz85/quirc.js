@@ -157,6 +157,10 @@
 				document.body.appendChild(canvas);
 
 				log('start');
+				
+				Module.onDecoded(decoded);
+				Module.onCounted(counted);
+				
 				image = Module._xsetup(width, height);
 				log('_xsetup', image, 'pointer');
 				return;

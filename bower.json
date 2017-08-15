@@ -1,0 +1,33 @@
+{
+  "name": "quircJs",
+  "description": "Quirc.js is a JS Emscripten port of a small portable C qrcode library Quirc",
+  "version": "1.1.1",
+  "main": "quirc.js",
+  "keywords": [
+    "QuircJs",
+    "QR",
+    "Barcode",
+    "Decode",
+    "WebRTC"
+  ],
+  "authors": [
+    "Daniel Beer",
+    "Joshua Koo"
+  ],
+  "license": "https://github.com/zz85/quirc.js/blob/gh-pages/LICENSE",
+  "homepage": "https://github.com/zz85/quirc.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+	".gitIgnore",
+	"Makefile",
+	"test.html",
+	"test_webrtc.html",
+	"quirc.js-demo-avatar.png",
+	"quirc.js-doraemon.png",
+	"demo/*"
+  ]
+}
